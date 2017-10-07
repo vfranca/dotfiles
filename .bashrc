@@ -130,6 +130,8 @@ alias checkout='git checkout'
 alias commit='git commit'
 alias add='git add'
 alias remote='git remote'
+alias push='git push'
+alias pull='git pull'
 
 alias feature='git flow feature'
 alias release='git flow release'
