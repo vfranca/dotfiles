@@ -121,6 +121,7 @@ cd /mnt/c/Users/Administrador
 
 alias home='cd /mnt/c/Users/Administrador'
 alias artisan='php artisan'
+alias console='php bin/console'
 alias activate='source venv/bin/activate'
 alias manage='python manage.py'
 
